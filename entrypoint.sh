@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -jar /app/GameSaleAWS/sale.jar
+java -jar /app/test.jar

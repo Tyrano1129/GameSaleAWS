@@ -4,7 +4,7 @@ COPY sale-0.0.1-SNAPSHOT.jar /app/test.jar
 COPY entrypoint.sh /app/entrypoint.sh
 
 ENV APP_HOME /app
-ENV MYSQL_IP=13.209.69.228
+ENV MYSQL_IP=54.180.99.193
 ENV MYSQL_PORT=8081
 ENV MYSQL_DATABASE=gamesale
 ENV MYSQL_USER=root

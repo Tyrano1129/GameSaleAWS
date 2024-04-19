@@ -9,7 +9,6 @@ ENV MYSQL_PORT=3306
 ENV MYSQL_DATABASE=gamesale
 ENV MYSQL_USER=root
 ENV MYSQL_ROOT_PASSWORD=1234
-ENV AWS_IP=ec2-52-79-237-157.ap-northeast-2.compute.amazonaws.com
 EXPOSE 8081
 VOLUME /app/upload
 
